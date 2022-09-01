@@ -74,3 +74,11 @@ button {
     width: 200px;
     height: 200px;
 }
+
+.information {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+    padding: 40px;
+}
