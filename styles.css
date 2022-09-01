@@ -121,3 +121,28 @@ button {
 .second-container {
     width: 1000px;
 }
+
+/*Content third section*/
+
+.content-three {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.third-container {
+    display: flex;
+    padding: 40px 80px;
+    width: 600px;
+    background: #3882F6;
+    border-radius: 10px;
+    align-items: center;
+    gap: 90px;
+}
+
+.paragraph {
+    color: #E5E7EB;
+    margin: 0;
+    padding: 0;
+}
