@@ -4,7 +4,7 @@ body {
 }
 /* header css*/
 
-.container {
+.header-container {
     display: flex;
     flex-direction: column;
     background: #1F2937;
