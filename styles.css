@@ -88,8 +88,12 @@ button {
     display: flex;
     gap: 70px;
     justify-content: center;
+    margin-bottom: 40px;
 }
 
 .container {
     max-width: 200px;
 }
+
+/*content second section*/
+
