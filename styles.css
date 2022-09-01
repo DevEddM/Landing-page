@@ -82,3 +82,14 @@ button {
     text-align: center;
     padding: 40px;
 }
+
+.information-container {
+    text-align: center;
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+}
+
+.container {
+    max-width: 200px;
+}
