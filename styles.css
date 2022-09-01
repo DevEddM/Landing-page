@@ -12,7 +12,7 @@ body {
 }
 
 .header {
-    width: 900px;
+    width: 1000px;
 }
 
 .box {
@@ -28,6 +28,11 @@ ul {
     list-style-type: none;
     gap: 20px;
 }
+
+li {
+    font-size: 18px #e5e7eb;
+}
+
 .header-content {
     display: flex;
     margin: 50px 0;
@@ -35,7 +40,7 @@ ul {
 }
 
 .heading {
-    width: 320px;
+    width: 350px;
 }
 img {
     width: auto;
@@ -44,6 +49,7 @@ img {
 
 h1 {
     margin: 0;
+    font-weight: 48px extra-bold #F9FAF8;
 }
 
 button {
@@ -51,5 +57,10 @@ button {
     background: #1b92cd;
     color:#F9FAF8;
     padding: 10px 20px;
+    font-weight: 900;
+}
+
+.header-logo {
+    font-size: 24px;
     font-weight: 900;
 }
