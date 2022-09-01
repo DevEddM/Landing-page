@@ -97,3 +97,27 @@ button {
 
 /*content second section*/
 
+.content-two {
+    height: 400px;
+    background:#E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+}
+
+.author {
+    display: flex;
+    font-size: 30px;
+    color: #1F2937;
+    font-weight: bold;
+    justify-content: flex-end;
+}
+
+.second-container {
+    width: 1000px;
+}
