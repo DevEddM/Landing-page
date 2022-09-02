@@ -146,3 +146,15 @@ button {
     margin: 0;
     padding: 0;
 }
+
+/*Footer*/
+
+.footer {
+    display: flex;
+    background: #1F2937;
+    color: #E5E7EB;
+    height: 80px;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}
